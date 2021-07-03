@@ -35,10 +35,6 @@ span {
     width: 100%;
 }
 
-.row img {
-    height: 50px;
-    width: 50px;
-}
 .row p, .row span {
     display: inline-block;
     height: 50px;
